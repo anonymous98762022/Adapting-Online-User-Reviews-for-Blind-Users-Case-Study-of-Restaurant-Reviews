@@ -1,6 +1,6 @@
 # Adapting Online User Reviews for Blind Users: Case Study of Restaurant Reviews
 
-![Pilot Study](./figures/study.png)
+![Pilot Study](./study.png)
 
 This repository contains LaTeX files and related resources for the UMAP conference submission. The project focuses on enhancing restaurant review accessibility and usability through thematic summarization, sentiment classification, and topic modeling.
 
