@@ -13,6 +13,3 @@ This repository contains LaTeX files and related resources for the UMAP conferen
 ## How to Use
 1. Compile `main.tex` in Overleaf or any LaTeX editor.
 2. Each section is modularized into separate files for better maintainability.
-
-## Citation
-Please cite this work as:
