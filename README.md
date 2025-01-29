@@ -9,8 +9,6 @@ This repository contains LaTeX files and related resources for the UMAP conferen
 - `main.tex`: Main LaTeX file combining all sections.
 - `prompts/`: Contains LaTeX files for different prompts used in the study.
 - `datasets/`: Contains datasets used for topic refinement and summary refinement tasks.
-- `figures/`: Contains images used in the submission.
-- `appendix/`: Contains the interview study questionnaire.
 
 ## How to Use
 1. Compile `main.tex` in Overleaf or any LaTeX editor.
